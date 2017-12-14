@@ -35,7 +35,7 @@ namespace WSSCCalc
 
         private static void Add(double firstNumber, double secondNumber)
         {
-            double result = firstNumber - secondNumber;
+            double result = firstNumber + secondNumber;
             Console.WriteLine("The result of "+ firstNumber + "and "+ secondNumber +"is " + result);
         }
 
